@@ -1,0 +1,20 @@
+What is cognitive debt?
+
+Cognitive debt refers to the accumulation of unprocessed knowledge that results from over-reliance on shortcuts like generative AI, notes, or search engines without true understanding. Students may recall answers without grasping underlying concepts, which can harm problem-solving and long-term retention.
+
+Why is cognitive debt a problem?
+
+In educational contexts, cognitive debt undermines deep learning and critical thinking. Studies from MIT and Stanford have shown that overusing tools like ChatGPT can lead to decreased performance on conceptual exams.
+
+How can AI reduce cognitive debt?
+
+AI systems that guide users instead of giving direct answers can help reduce cognitive debt. These systems promote metacognition, gently redirect thinking, and scaffold students through their own learning process.
+
+What is retrieval-augmented generation?
+
+Retrieval-Augmented Generation (RAG) is an approach that combines a large language model (LLM) with a knowledge retriever. Rather than relying solely on its training, the LLM can query an external database or knowledge source to pull in relevant context before generating a response.
+
+How does our AI Tutor use RAG?
+
+The AI Tutor uses RAG to fetch context from instructor-provided course material. When a student asks a question, the model retrieves relevant sections and then generates a guided response tailored to that student’s learning style.
+

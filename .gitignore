@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+*.sqlite3
+
+# Mac/Linux
+.DS_Store
+
+# ChromaDB vector storage
+rag_index/
