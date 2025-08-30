@@ -8,7 +8,6 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain_community.vectorstores import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 embedding_fn = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
-
 import os
 
 # ------------------------- FILE CONFIG -------------------------
